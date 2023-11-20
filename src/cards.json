@@ -1,0 +1,288 @@
+[
+    {
+        "front": "What are the goals of (social) psychological research?",
+        "back": "Goals of (social) psychological research: Understanding how people's thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others."
+    },
+    {
+        "front": "Define *social psychology*",
+        "back": "Social psychology: The scientific study of how individuals think, feel, and behave in a social context."
+    },
+    {
+        "front": "What are the key elements of *quantitative* and *qualitative* research methods?",
+        "back": "Quantitative: Involves numerical data, statistical analysis, and often uses experiments, surveys, or questionnaires. \nQualitative: Focuses on descriptive data, understanding phenomena through interviews, observations, and analysis of texts."
+    },
+    {
+        "front": "What is a statistical correlation and what conclusions can be drawn from correlational research?",
+        "back": "Statistical correlation: A measure indicating the extent to which two variables fluctuate together. Correlational research cannot determine causation, only association."
+    },
+    {
+        "front": "What are the main aspects of experimental research?",
+        "back": "Experimental research: Involves manipulating one variable to determine if changes in one variable cause changes in another. It can establish causal relationships."
+    },
+    {
+        "front": "What are *independent* and *dependent variables* in experimental research?",
+        "back": "Independent variable: The manipulated variable in an experiment. \n Dependent variable: The measured variable, affected by the independent variable."
+    },
+    {
+        "front": "What are *schemata* and what function do they have?",
+        "back": "Schemata: Mental structures that help individuals organize and interpret information, guiding attention and memory."
+    },
+    {
+        "front": "What is *priming*?",
+        "back": "Priming: The activation of certain associations, thereby predisposing perception, memory, or response."
+    },
+    {
+        "front": "What is the *confirmation bias*?",
+        "back": "Confirmation bias: The tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses."
+    },
+    {
+        "front": "Name and explain the *representativeness* and *availability heuristic*.",
+        "back": "Representativeness: Judging the likelihood of an event based on how similar it is to the typical case. \nAvailability: Estimating the likelihood of events based on their availability in memory."
+    },
+    {
+        "front": "What is an *illusory correlation*?",
+        "back": "Illusory correlation: Perceiving a relationship between variables even when no such relationship exists."
+    },
+    {
+        "front": "What is the *fundamental attribution error*?",
+        "back": "Fundamental attribution error: The tendency to overemphasize personal characteristics and ignore situational factors when judging others' behavior."
+    },
+    {
+        "front": "What is the *belief in a just world*?",
+        "back": "Belief in a just world: The belief that people get what they deserve and deserve what they get."
+    },
+    {
+        "front": "What is a *self-fulfilling prophecy*?",
+        "back": "Self-fulfilling prophecy: A belief that leads to its own fulfillment due to the behavior it generates."
+    },
+    {
+        "front": "What is the *self-concept*, *self-esteem*, and *self-presentation* and what their main/defining differences?",
+        "back": "Self-concept, self-esteem, self-presentation: \nSelf-concept: The sum of beliefs and feelings about oneself.\nSelf-esteem: One's overall self-evaluation or sense of self-worth.\nSelf-presentation: The process of controlling how one is perceived by others."
+    },
+    {
+        "front": "What is the difference between *introspection* and *self-perception theory*?",
+        "back": "Introspection: The process of looking inward to examine one's own thoughts and feelings.\nSelf-perception theory: People infer their attitudes and feelings by observing their behavior and the situation in which it occurs."
+    },
+    {
+        "front": "In what two ways can we use *social comparison* to learn something about ourself?",
+        "back": "Social comparison: Comparing oneself to others to evaluate or enhance one's own abilities or opinions, can be upward (with someone better) or downward (with someone worse)."
+    },
+
+    {
+        "front": "Explain the three 'selfs' in Higgins (1987, 1989) *self-discrepancy theory*?",
+        "back": "Higgins' self-discrepancy theory: Focuses on the differences between the actual, ideal, and ought selves and how these discrepancies affect emotions."
+    },
+    {
+        "front": "What is the relation between *self-awareness* and (normative) behavior?",
+        "back": "Self-awareness and behavior: Higher self-awareness leads to behavior that is more consistent with personal and social standards."
+    },
+    {
+        "front": "What is *self-regulation* and when do we need it?",
+        "back": "Self-regulation: The ability to control and direct one's own actions and reactions in pursuit of goals."
+    },
+    {
+        "front": "Name and explain at least two mechanisms of *self-enhancement*.",
+        "back": "Self-serving bias: Attributing positive events to oneself and negative events to external factors.\nUnrealistic optimism: Believing that one is less likely to experience negative events."
+    },
+    {
+        "front": "What is an *attitude* and what are its three components?",
+        "back": "Attitude: A psychological tendency expressed by evaluating a particular entity with some degree of favor or disfavor, encompassing affective, behavioral, and cognitive components."
+    },
+    {
+        "front": "Name and shortly describe three different ways of how attitudes can form.",
+        "back": "Formation of attitudes: Through direct experience, social learning, and genetic or evolutionary factors."
+    },
+    {
+        "front": "Provide an example of how attitudes can form/change according to Heider's (1946) *balance theory*.",
+        "back": "Balance theory: Attitude change occurs to maintain consistency among one’s thoughts; for example, if a person likes a friend but dislikes something the friend likes, they might change their attitude to align with the friend's."
+    },
+    {
+        "front": "What factors increase the predictive value of attitudes on behavior.",
+        "back": "Predictive value of attitudes: Stronger when attitudes are specific to the behavior, stable, accessible, and based on personal experience."
+    },
+    {
+        "front": "Explain how behavior can influence attitudes by using Festinger's *cognitive dissonance theory*.",
+        "back": "Cognitive dissonance theory: When behavior and attitudes are inconsistent, individuals experience discomfort, leading them to change their attitudes to align with their behavior."
+    },
+    {
+        "front": "Describe the main characteristics of the two very prominent persuasion models (ELM, HSM).",
+        "back": "Elaboration Likelihood Model (ELM): Persuasion depends on the likelihood of elaboration, varying along a continuum from central to peripheral processing.\nHeuristic-Systematic Model (HSM): Persuasion occurs either through systematic processing of arguments or through heuristic cues."
+    },
+    {
+        "front": "Which four broad aspects are commonly analyzed in persuasion?",
+        "back": "Four aspects in persuasion: Source (who), message (what), medium (how), audience (to whom)."
+    },
+    {
+        "front": "Name and describe two factors that influence the persuasiveness of a communicator?",
+        "back": "Persuasiveness of a communicator: Credibility and attractiveness of the source, similarity to the audience."
+    },
+    {
+        "front": "What is the sleeper effect?",
+        "back": "Sleeper effect: Over time, the impact of a persuasive message may increase if the source’s credibility is low."
+    },
+    {
+        "front": "Name and describe factors that influence the persuasiveness of a message?",
+        "back": "Persuasiveness of a message: Factors include message quality, fear appeals, and whether the message is one-sided or two-sided."
+    },
+    {
+        "front": "How do different communication channels (how the message is presented) affect persuasion?",
+        "back": "Communication channels: Different mediums (e.g., face-to-face, media) can affect the impact and reception of the persuasive message."
+    },
+    {
+        "front": "What factors of the audience influences persuasion?",
+        "back": "Audience factors in persuasion: Audience's initial attitude, mood, age, and need for cognition."
+    },
+    {
+        "front": "You should be able to name and present an example of at least three specific persuasion techniques.",
+        "back": "Foot-in-the-door technique, Door-in-the-face technique, Low-ball technique (hidden cost)"
+    },
+    {
+        "front": "Name and explain two types on which basis people can be assigned to a category.",
+        "back": "Categories for assigning people: Based on observable characteristics (e.g., race, age) or social roles (e.g., occupation, family role)."
+    },
+    {
+        "front": "What is the *accentuation effect*?",
+        "back": "Accentuation effect: Tendency to exaggerate the differences between categories and similarities within categories."
+    },
+    {
+        "front": "What is the *outgroup homogeneity effect*?",
+        "back": "Outgroup homogeneity effect: Perceiving members of an outgroup as more similar to each other than members of one's ingroup."
+    },
+    {
+        "front": "What is the difference between the *social identity* versus the *personal identity*?",
+        "back": "Social identity vs. Personal identity: Social identity arises from membership in social groups, while personal identity is based on personal characteristics and achievements."
+    },
+    {
+        "front": "What are the three basic processes described by *social identity theory*.",
+        "back": "Social identity theory processes: Social categorization, social identification, and social comparison."
+    },
+    {
+        "front": "What are the *self-esteem hypothesis* (Abrams & Hogg, 1988)?",
+        "back": "Self-esteem hypothesis: Posits that individuals enhance their self-esteem through in-group favoritism."
+    },
+    {
+        "front": "Explain the *black sheep effect*.",
+        "back": "Black sheep effect: In-group members judge deviant in-group members more harshly than comparable out-group members."
+    },
+    {
+        "front": "List possible reactions of people who are against their will seen as only peripheral group members.",
+        "back": "Reactions of peripheral group members: Seeking to increase their status within the group, disidentification, or forming new groups."
+    },
+    {
+        "front": "List and describe different *motives* related to *social identity*.",
+        "back": "Motives in social identity: Need for self-esteem, uncertainty reduction, and optimal distinctiveness."
+    },
+    {
+        "front": "What is the *social facilitation effect* and how can it be explained by an *arousal* account?",
+        "back": "Social facilitation effect: The tendency for people to perform differently when in the presence of others than when alone, often performing better on simple tasks due to increased arousal."
+    },
+    {
+        "front": "What is *social loafing* and under what circumstances does it (/not) occur?",
+        "back": "Social loafing: The phenomenon where individuals exert less effort when working in a group than when working alone."
+    },
+    {
+        "front": "How would you set up an experiment to test the *group polarization effect*?",
+        "back": "Group polarization effect experiment: Divide participants into groups based on initial attitudes, discuss relevant issues, and measure the shift towards more extreme positions."
+    },
+    {
+        "front": "What is *group think* and what is problematic with this 'theory'?",
+        "back": "Groupthink: A phenomenon where the desire for group consensus overrides people's common sense desire to present alternatives, critically evaluate options, or express an unpopular opinion."
+    },
+    {
+        "front": "Name and describe factors that impair the effectiveness of a group doing *brainstorming*?",
+        "back": "Impairments in brainstorming: Production blocking, social loafing, evaluation apprehension, and conformity pressures."
+    },
+    {
+        "front": "Define the terms *stereotype*, *prejudice*, and *discrimination*.",
+        "back": "Stereotype: Generalized belief about a group of people.\nPrejudice: Preconceived opinion that is not based on reason or actual experience.\nDiscrimination: Unjust or prejudicial treatment of different categories of people, especially on the grounds of race, age, or sex."
+    },
+    {
+        "front": "What is *modern racism* and distinguish it from *old-fashioned racism*?",
+        "back": "Modern vs. Old-fashioned racism: Modern racism is more subtle, covert, and socially acceptable than old-fashioned racism, which was overt and blatant."
+    },
+    {
+        "front": "What is *stereotype threat* and describe an experiment (real or made-up) that could test for the stereotype threat effect.",
+        "back": "Stereotype threat: The risk of confirming negative stereotypes about an individual's racial, ethnic, gender, or cultural group, which can hinder performance."
+    },
+    {
+        "front": "List some factors that contribute to the maintenance of stereotypes.",
+        "back": "Maintenance of stereotypes: Through confirmation bias, self-fulfilling prophecies, media portrayals, and social and cultural norms."
+    },
+        {
+        "front": "What is the so-called *shooter paradigm* (Payne, 2001) and how is it related to the *implicit association test*?",
+        "back": "Shooter paradigm: A study where participants are more likely to mistakenly shoot unarmed black targets than white ones, related to implicit biases measured by the Implicit Association Test."
+    },
+    {
+        "front": "According to Allport's *contact theory*, what factors need to be present for intergroup contact to lead to less prejudice?",
+        "back": "Contact theory: Intergroup contact under appropriate conditions (equal status, common goals, intergroup cooperation, support of authorities, law or custom) can reduce prejudice."
+    },
+    {
+        "front": "You should be able to name and describe different types of conformity by their main characteristics.",
+        "back": "Types of conformity: Compliance, identification, and internalization."
+    },
+    {
+        "front": "You should know about the procedures and main outcome of the classic conformity/obedience studies.",
+        "back": "Asch's line experiments, Milgram's shock obedience experiments, and Sherif's autokinetic effect experiments."
+    },
+    {
+        "front": "Name at least three factors that de/increased obedience levels in Milgram-like obedience studies.",
+        "back": "Factors influencing obedience in Milgram-like studies: Authority of the experimenter, proximity of the victim, presence of others disobeying."
+    },
+    {
+        "front": "You should be able to name and explain social psychological factors that are assumed to play a role in the development of extremely cruel behavior.",
+        "back": "Factors in extreme cruelty development: Dehumanization, obedience to authority, group conformity (peer pressure), moral disengagement."
+    },
+    {
+        "front": "What does the *social impact theory* (Latané, 1981) explain and by which factors?",
+        "back": "Social impact theory: Explains how social influence depends on the strength, immediacy, and number of source persons relative to target persons."
+    },
+    {
+        "front": "What is *reactive*, *instrumental*, and *displaced aggression*?",
+        "back": "Reactive aggression: Impulsive, angry behavior motivated by a desire to harm someone.\nInstrumental aggression: Intentional and planned aggression to achieve a goal.\nDisplaced aggression: Redirecting aggression to a target other than the source of the frustration."
+    },
+    {
+        "front": "What is the *frustration-aggression hypothesis* and what evidence speaks for and against it?",
+        "back": "Frustration-aggression hypothesis: Aggression is the result of frustration, but recent evidence suggests that not all aggression is due to frustration and not all frustration leads to aggression."
+    },
+    {
+        "front": "How does Bandura's *social learning theory* explain aggressive behavior?",
+        "back": "Social learning theory: Aggression is learned through observing and imitating others"
+    },
+    {
+        "front": "By which processes could heat/presence of guns facilitate the expression of aggressive behavior?",
+        "back": "Heat and presence of guns: Heat can increase aggression by heightening arousal and discomfort. The presence of guns can act as a cue for aggression, a phenomenon known as the 'weapons effect.'"
+    },
+    {
+        "front": "By which processes does violent TV or video game content seem to facilitate the expression of aggressive behavior?",
+        "back": "Violent media content: Exposure to violent TV or video games may increase aggression through desensitization to violence, imitation of aggressive behaviors, and reinforcement of aggressive beliefs and attitudes."
+    },
+    {
+        "front": "What is the *catharsis hypothesis* and is it currently viewed as correct or incorrect?",
+        "back": "Catharsis hypothesis: The idea that expressing aggression reduces future aggression. However, it's generally discredited, as studies show expressing aggression often leads to more aggression, not less."
+    },
+    {
+        "front": "Name and shortly explain theories on why we help other people.",
+        "back": "Altruism: Helping others with no expectation of reward.\nSocial exchange theory: Helping others based on a cost-benefit analysis.\nEmpathy-altruism hypothesis: Helping due to feeling empathy for another person."
+    },
+    {
+        "front": "When do we help?",
+        "back": "Conditions for helping: People are more likely to help when they notice the situation, interpret it as an emergency, and feel responsibility to help."
+    },
+    {
+        "front": "What is the *bystander effect*?",
+        "back": "Bystander effect: The phenomenon where individuals are less likely to offer help to a victim when other people are present."
+    },
+    {
+        "front": "How can you increase helping behavior across group boundaries?",
+        "back": "Increasing helping across groups: By fostering empathy, reducing in-group/out-group distinctions, increasing feelings of similarity and shared identity, and teaching and modeling inclusive behaviors."
+    },
+    {
+        "front": "Which factors have been shown to lead to friendship?",
+        "back": "Factors leading to friendship: Proximity, repeated contact, similarity in attitudes and interests, mutual liking, and reciprocal benefits."
+    },
+    {
+        "front": "Name and explain the three basic components of love according to Sternberg (1988).",
+        "back": "Intimacy: Feelings of closeness and connectedness.\nPassion: The physical and sexual attraction.\nCommitment: The decision to maintain the relationship over time."
+    }
+  ]
+  
